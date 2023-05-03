@@ -1,0 +1,27 @@
+{
+  "name": "com.kingdox.uniflux.netcode.rollback",
+  "displayName": "UniFlux.Netcode.Rollback",
+  "version": "1.0.0",
+  "author": "Kingdox",
+  "unity": "2019.3",
+  "description": "",
+  "keywords": [
+    "flux",
+    "unity",
+    "uniflux"
+  ],
+  "dependencies": {
+    "com.kingdox.uniflux":"^1.0.0"
+  },
+  "license": "MIT",
+  "category": "Flux",
+  "repository": 
+  {
+    "url": "https://github.com/kingdox/UniFlux.Netcode.Rollback.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/kingdox/UniFlux/issues"
+  },
+  "homepage": "https://github.com/kingdox/UniFlux#readme"
+}
