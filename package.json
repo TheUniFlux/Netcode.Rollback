@@ -1,5 +1,5 @@
 {
-  "name": "com.kingdox.uniflux.netcode.rollback",
+  "name": "com.xavierarpa.uniflux.netcode.rollback",
   "displayName": "UniFlux.Netcode.Rollback",
   "version": "1.0.0",
   "author": "Kingdox",
@@ -11,17 +11,17 @@
     "uniflux"
   ],
   "dependencies": {
-    "com.kingdox.uniflux":"^1.0.0"
+    "com.xavierarpa.uniflux":"^1.0.0"
   },
   "license": "MIT",
   "category": "Flux",
   "repository": 
   {
-    "url": "https://github.com/kingdox/UniFlux.Netcode.Rollback.git",
+    "url": "https://github.com/xavierarpa/UniFlux.Netcode.Rollback.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/kingdox/UniFlux/issues"
+    "url": "https://github.com/xavierarpa/UniFlux/issues"
   },
-  "homepage": "https://github.com/kingdox/UniFlux#readme"
+  "homepage": "https://github.com/xavierarpa/UniFlux#readme"
 }
